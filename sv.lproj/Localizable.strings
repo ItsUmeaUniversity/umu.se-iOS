@@ -1,0 +1,20 @@
+/* 
+   Localiable.strings
+   umu.se
+
+   Created by Johan Bucht on 2011-01-17.
+   Copyright 2011 UMU. All rights reserved.
+ */
+"Welcome"="Välkommen";
+"News"="Nyheter";
+"Facebook"="Facebook";
+"YouTube"="YouTube";
+"Map"="Karta";
+
+"App feedback"=" Vad tycker du om appen?";
+"Map information"=" Information om kartan";
+"Contact Umeå University"=" Kontakta Umeå universitet";
+"About Umeå University"=" Om universitetet";
+"External Relations"=" Samverkan";
+"Research"=" Forskning";
+"Education"=" Utbildning";

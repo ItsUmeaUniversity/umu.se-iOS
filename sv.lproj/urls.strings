@@ -1,0 +1,17 @@
+/* 
+   urls.strings
+   umu.se
+
+   Created by Johan Bucht on 2011-01-17.
+   Copyright 2011 UMU. All rights reserved.
+ */
+"education"="http://www.umu.se/utbildning/";
+"research"="http://www.umu.se/forskning/";
+"about"="http://www.umu.se/om-universitetet/";
+"contact"="http://www.umu.se/om-universitetet/kontakt";
+"external relations"="http://www.umu.se/samverkan/";
+
+"news"="http://www.umu.se/rss/nyheter.rss";
+"facebook-graph"="http://graph.facebook.com/umeauniversitet/feed";
+"facebook"="http://www.facebook.com/umeauniversitet";
+"google maps"="http://hitta.db.umu.se/hitta/js/map/smartphone.html?hl=sv";
